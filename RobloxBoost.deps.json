@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RobloxBoost/2.1.0": {
+        "runtime": {
+          "RobloxBoost.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobloxBoost/2.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
